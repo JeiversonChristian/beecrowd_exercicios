@@ -1,4 +1,4 @@
-#Exercícios do Beecrowd
+# Exercícios do Beecrowd
 beecrowd.com.br
 
 Este projeto conterá todos os exercícios resolvidos do beecrowd.
@@ -7,17 +7,17 @@ Este projeto conterá todos os exercícios resolvidos do beecrowd.
 -Provérbio Chinês.
 
 Linguagens utilizadas:
-*C
+* C
 
-*Python 3
+* Python 3
 
 Programas utilizados:
-*Sublime Text - para C
+* Sublime Text - para C
 
-*Pycharm - para Python 3
+* Pycharm - para Python 3
 
 Obs.:
------------------------------------------- para compilar no sublime: ------------------------------------------
+___________________________________________ para compilar no sublime:___________________________________________.
 
 Tools -> Build System -> New Build System
 Copiar e colar o seguinte código na aba que abrir:
@@ -27,4 +27,4 @@ Após isso, volte em Tools->Build System e escolha a opção "C".
 Adicionar a biblioteca #include <stdlib.h> para...
 ...poder colocar system("pause"); na última linha da função main() ---- isso é necessário
 
------------------------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________________________.
