@@ -1,9 +1,10 @@
 # Exercícios do Beecrowd
-beecrowd.com.br
+[site do beecrowd]
+(https://www.beecrowd.com.br/judge/en/login)
 
 Este projeto conterá todos os exercícios resolvidos do beecrowd.
 
-"Uma jornada de 200 km começa com um simples passo."  
+*"Uma jornada de 200 km começa com um simples passo."*  
 -Provérbio Chinês.
 
 Linguagens utilizadas:
@@ -16,7 +17,7 @@ Programas utilizados:
 
 * Pycharm - para Python 3
 
-Obs.:
+Obs.:  
 ___________________________________________ para compilar no sublime:___________________________________________.
 
 Tools -> Build System -> New Build System  
